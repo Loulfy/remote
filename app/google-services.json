@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "214368746046",
+    "firebase_url": "https://remote-7660a.firebaseio.com",
+    "project_id": "remote-7660a",
+    "storage_bucket": "remote-7660a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214368746046:android:b6edb5f6d3ac49fc",
+        "android_client_info": {
+          "package_name": "io.lylix.remote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214368746046-5plk88vfejen7khqsid6gdnijtu1l16m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUDDRxVTk96PzWhrDAUFihEqHgZqx-Q2k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
